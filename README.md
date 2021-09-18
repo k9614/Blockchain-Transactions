@@ -1,4 +1,4 @@
-# python_blockchain_app
+# blockchain_transactions_app
 
 This application creates transactions, and once you mine the transactions, all the nodes in the network update the chain. The chain of the nodes can also be inspected by inovking `/chain` endpoint using cURL.
 
